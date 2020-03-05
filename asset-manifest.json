@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fernleigh-kit-offer/static/css/main.d1b05096.chunk.css",
+    "main.js": "/fernleigh-kit-offer/static/js/main.7e3bcbb8.chunk.js",
+    "main.js.map": "/fernleigh-kit-offer/static/js/main.7e3bcbb8.chunk.js.map",
+    "runtime-main.js": "/fernleigh-kit-offer/static/js/runtime-main.b1214825.js",
+    "runtime-main.js.map": "/fernleigh-kit-offer/static/js/runtime-main.b1214825.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/fernleigh-kit-offer/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.45904331.chunk.js": "/fernleigh-kit-offer/static/js/2.45904331.chunk.js",
+    "static/js/2.45904331.chunk.js.map": "/fernleigh-kit-offer/static/js/2.45904331.chunk.js.map",
+    "index.html": "/fernleigh-kit-offer/index.html",
+    "precache-manifest.e2e8eaba17d20598254ea2d35e7b7395.js": "/fernleigh-kit-offer/precache-manifest.e2e8eaba17d20598254ea2d35e7b7395.js",
+    "service-worker.js": "/fernleigh-kit-offer/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/fernleigh-kit-offer/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/fernleigh-kit-offer/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.45904331.chunk.js.LICENSE.txt": "/fernleigh-kit-offer/static/js/2.45904331.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1214825.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.45904331.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7e3bcbb8.chunk.js"
+  ]
+}
