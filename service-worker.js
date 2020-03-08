@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fernleigh-kit-offer/precache-manifest.e2e8eaba17d20598254ea2d35e7b7395.js"
+  "/fernleigh-kit-offer/precache-manifest.cefba36121c09c5f71ecc658e8b71665.js"
 );
 
 self.addEventListener('message', (event) => {
