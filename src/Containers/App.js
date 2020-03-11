@@ -21,7 +21,7 @@ class App extends React.Component {
 
   render () {
     return (
-      <div className="App">
+      <div className="App bgimage">
       	<Selector workData={this.state.workData} onOptionChange={this.onOptionChange}/>
         <Sections workData={this.state.workData} selectedOption={this.state.selectedOption} />
         <Submit workData={this.state.workData} selectedOption={this.state.selectedOption} />

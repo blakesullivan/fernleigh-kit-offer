@@ -11,9 +11,9 @@ const Sections = ({ workData, selectedOption }) => {
 				{
 					useData[0].options.map((opt,i) => {
 						return (
-							<div key={i} className="dit mw5 bg-white br3 pa3 pa4-ns mb1 h8 ba b--black-10 mh5">
+							<div key={i} className="db center mw7 bg-white-90 br3 pa3 pa4-ns mb1 h8 ba b--black-10 mh5">
 								<div className="tc">
-									<img src={opt.image} alt={opt.title} className="db w5 br2 br--top" />
+									<img src={opt.image} alt={opt.title} className="db center w5 br2 br--top" />
 									<h1 className="f4">{opt.title}</h1>
 									<hr class="mw3 bb bw1 b--black-10" />
 								</div>
